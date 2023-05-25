@@ -18,10 +18,15 @@ THINGS DONE:
 - this automated pump was activated when a simple (low-tech) sensor touched water when it level rised in the lipid trap, so it will never be full and the user doesnt intervenes in the process and doesnt need to be alert at the level.
 
 
+https://github.com/ramiroarga/Microchallenge-3/assets/115219057/03032909-4a5b-4bd0-99aa-bde137d0bd41
 
-![fmslkdf](https://github.com/ramiroarga/Microchallenge-3/assets/115219057/50931224-e1cd-41c5-9999-65985ca60188)
+https://github.com/ramiroarga/Microchallenge-3/assets/115219057/7c65f1b9-2555-448b-964e-cf72fbf709dd
 
 
+
+
+![proto3](https://github.com/ramiroarga/Microchallenge-3/assets/115219057/9bfd20de-1ff5-4cdf-b2c0-291e6ac383e8)
+![proto3 1](https://github.com/ramiroarga/Microchallenge-3/assets/115219057/48e15442-76af-47ea-a230-1547b5c60926)
 
 
 
