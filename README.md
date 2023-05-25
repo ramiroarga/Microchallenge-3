@@ -17,6 +17,7 @@ THINGS DONE:
 - the other automated pump takes water from the lipid trap to the plants and mineral filters (old-wasted 3d printed clay found at IAAC, sand, activated carbon)
 - this automated pump was activated when a simple (low-tech) sensor touched water when it level rised in the lipid trap, so it will never be full and the user doesnt intervenes in the process and doesnt need to be alert at the level.
 
+https://drive.google.com/open?id=1fXhIorCBOexazs4EFsOxy_u4CHiLsxv9&usp=drive_copy
 
 
 
