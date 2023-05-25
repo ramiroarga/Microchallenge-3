@@ -23,10 +23,8 @@ https://github.com/ramiroarga/Microchallenge-3/assets/115219057/03032909-4a5b-4b
 https://github.com/ramiroarga/Microchallenge-3/assets/115219057/7c65f1b9-2555-448b-964e-cf72fbf709dd
 
 
+![image](https://github.com/ramiroarga/Microchallenge-3/assets/115219057/7086dcc6-99ff-49da-aa6e-9ebbc167feb0)
 
-
-![proto3](https://github.com/ramiroarga/Microchallenge-3/assets/115219057/9bfd20de-1ff5-4cdf-b2c0-291e6ac383e8)
-![proto3 1](https://github.com/ramiroarga/Microchallenge-3/assets/115219057/48e15442-76af-47ea-a230-1547b5c60926)
 
 
 
