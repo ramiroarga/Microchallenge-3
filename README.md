@@ -25,7 +25,7 @@ https://github.com/ramiroarga/Microchallenge-3/assets/115219057/7c65f1b9-2555-44
 
 ![image](https://github.com/ramiroarga/Microchallenge-3/assets/115219057/7086dcc6-99ff-49da-aa6e-9ebbc167feb0)
 
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/830141929?h=699de9916d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="IMG_1091"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+https://vimeo.com/830141929?share=copy
 
 
 We are in process of creating a big documentation for making this BIO-WATER FILTER accessible to anyone looking forward to build it, with all the building process  explained step by step with photos and videos.
