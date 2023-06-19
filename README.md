@@ -143,6 +143,9 @@ After testing each part on its own,wWe brought together all these elements of th
 The system works well so far, but we must mention that we are in the early days of its utilisation, and we're observing daily performance and utility of it.
 
 ---
+Some final sketches of the prototype:
+![](https://hackmd.io/_uploads/ryeBK96Pn.png)
+![](https://hackmd.io/_uploads/Byo6Y9Twn.png)
 
 
 ## Future Developments
